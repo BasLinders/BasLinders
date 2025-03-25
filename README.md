@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @BasLinders, released in 1981, married to Lisette and I live in the Netherlands.
+- 👀 I’m interested in metal music, fitness, Dungeons & Dragons, videogames, data science (and obviously programming).
+- 🌱 I’m currently learning everything there is to know about inferential statistics, differential calculus and machine learning.
+- 📫 How to reach me: Drop me a message on Linkedin.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I used to be a language teacher (German).
