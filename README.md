@@ -1,6 +1,22 @@
 - 👋 Hi, I’m @BasLinders, released in 1981, married to Lisette and I live in the Netherlands.
 - 👀 I’m interested in metal music, fitness, Dungeons & Dragons, videogames, data science (and obviously programming).
-- 🌱 I’m currently learning everything there is to know about inferential statistics, differential calculus and machine learning (and building a SLM in the process).
+- 🌱 I’m constantly looking to learn everything there is to know about inferential statistics, differential calculus and machine learning (and building a SLM in the process).
 - 📫 How to reach me: Drop me a message on Linkedin.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I used to be a language teacher (German).
+
+**Skills & languages**
+- Machine Learning /  building and evaluation of models (building a SLM as a hobby project)
+- Inferential statistics
+- Coding languages: Python, R, SQL, Javascript
+
+**Professional experience in data science**
+- Experimentation & data scientist @ Happy Horizon
+- Experimentation & data science @ Evoworks E-commerce marketing
+
+**Professional experience in marketing**
+- CRO specialist @ Happy Horizon
+- CRO specialist @ Evoworks E-commerce Marketing
+- Allround digital marketing specialist @ Evoworks E-commerce marketing
+- PPC specialist @ NHA Distance Learning
+- Online marketer @ X-com e-commerce agency
