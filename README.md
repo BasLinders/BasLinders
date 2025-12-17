@@ -6,9 +6,11 @@
 - ⚡ Fun fact: I used to be a language teacher (German).
 
 **Skills & languages**
-- Machine Learning /  building and evaluation of models (building a SLM as a hobby project)
+- Machine Learning / building and evaluation of models (building a SLM as a hobby project)
 - Inferential statistics
-- Coding languages: Python, R, SQL, Javascript
+- Process mining (PM4Py)
+- Data Querying
+- Coding languages: Python/Cython, R, SQL, Javascript
 
 **Professional experience in data science**
 - Experimentation & data scientist @ Happy Horizon
