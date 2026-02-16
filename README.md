@@ -10,7 +10,7 @@
 - Inferential statistics
 - Process mining (PM4Py)
 - Data Querying
-- Coding languages: Python/Cython, R, SQL, Javascript, C++
+- Coding languages: Python/Cython, R, SQL, Javascript
 
 **Professional experience in data science**
 - Experimentation & data scientist @ Happy Horizon
