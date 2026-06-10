@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BasLinders, released in 1981, married to Lisette and I live in the Netherlands.
 - 👀 I’m interested in metal music, fitness, Dungeons & Dragons, videogames, data science (and obviously programming).
-- 🌱 I’m constantly looking to learn everything there is to know about inferential statistics, differential calculus and machine learning (and building a SLM in the process).
+- 🌱 I’m constantly looking to learn everything there is to know about inferential statistics, differential calculus and machine learning.
 - 📫 How to reach me: Drop me a message on [Linkedin](https://www.linkedin.com/in/blinders/).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I used to be a language teacher (German).
@@ -11,6 +11,7 @@
 - Process mining (PM4Py)
 - Data Querying
 - Coding languages: Python/Cython, R, SQL, Javascript
+- I built a domain-agnostic language model that is zero-weight for RAG (RBF retrieval) and lightweight in pre-training for full conversational coherence. It runs on ~25M parameters and is developer for CPU, with GPU (CUDA) support if available.
 
 **Professional experience in data science**
 - Experimentation & data scientist @ Happy Horizon
