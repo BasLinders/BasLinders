@@ -11,7 +11,7 @@
 - Process mining (PM4Py)
 - Data Querying
 - Coding languages: Python/Cython, R, SQL, Javascript
-- I built a domain-agnostic language model that is zero-weight for RAG (RBF retrieval) and lightweight in pre-training for full conversational coherence. It runs on ~25M parameters and is developer for CPU, with GPU (CUDA) support if available.
+- I built a domain-agnostic, hybrid language model that uses Semantic Embeddings for retrieval and uses a custom-built decoder transformer for full conversational coherence. It is ~25M parameters (with presets for 85M and 512M parameters) and is developed to be able to run on CPU, with GPU (CUDA) support if available.
 
 **Professional experience in data science**
 - Experimentation & data scientist @ Happy Horizon
