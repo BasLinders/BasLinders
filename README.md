@@ -14,14 +14,14 @@
 * Coding languages: Python/Cython, R, SQL, Javascript
 * AI engineering: I built a domain-agnostic, hybrid language model that uses Semantic Embeddings for retrieval and uses a custom-built decoder transformer for full conversational coherence. It is ~25M parameters (with presets for 85M and 512M parameters) and is developed to be able to run on CPU, with GPU (CUDA) support if available.
 
-**Professional experience in data science**
-* Experimentation & data scientist @ Happy Horizon
-* Experimentation & data science @ Evoworks E-commerce marketing
+**Professional experience in Data Science**
+* Experimentation & Data Scientist @ Happy Horizon
+* Experimentation & Data Science @ Evoworks E-commerce marketing
 
-**Professional experience in marketing**
-* CRO specialist @ Happy Horizon
+**Professional experience in Marketing**
+* CRO Specialist @ Happy Horizon
 * Product Owner CRO @ Happy Horizon
-* CRO specialist @ Evoworks E-commerce Marketing
-* Allround digital marketing specialist @ Evoworks E-commerce marketing
-* PPC specialist @ NHA Distance Learning
-* Online marketer @ X-com e-commerce agency
+* CRO Specialist @ Evoworks E-commerce Marketing
+* Allround Digital Marketing Specialist @ Evoworks E-commerce marketing
+* PPC Specialist @ NHA Distance Learning
+* Online Marketer @ X-com e-commerce agency
