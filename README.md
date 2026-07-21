@@ -20,6 +20,7 @@
 
 **Professional experience in marketing**
 * CRO specialist @ Happy Horizon
+* Product Owner CRO @ Happy Horizon
 * CRO specialist @ Evoworks E-commerce Marketing
 * Allround digital marketing specialist @ Evoworks E-commerce marketing
 * PPC specialist @ NHA Distance Learning
