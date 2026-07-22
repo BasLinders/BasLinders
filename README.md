@@ -20,7 +20,7 @@
 * Experimentation & Data Science @ Evoworks E-commerce marketing
 
 **Projects shipped in this role**
-* [Hexkit](https://hexkit.streamlit.app/) — partly fed by [First Order Engine](https://github.com/BasLinders/first-order-engine), which I created for it
+* [Hexkit](https://hexkit.streamlit.app/) — partly fueled by [First Order Engine](https://github.com/BasLinders/first-order-engine), which I created for it
 * [Haedakit](https://haedakit.streamlit.app/)
 * [Causekit](https://causekit.streamlit.app/)
 
