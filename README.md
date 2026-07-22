@@ -19,7 +19,7 @@
 * Experimentation & Data Scientist @ Happy Horizon
 * Experimentation & Data Science @ Evoworks E-commerce marketing
 
-**Projects shipped in this role**
+**Projects shipped @ Happy Horizon**
 * [Hexkit](https://hexkit.streamlit.app/) — partly fueled by [First Order Engine](https://github.com/BasLinders/first-order-engine), which I created for it
 * [Haedakit](https://haedakit.streamlit.app/)
 * [Causekit](https://causekit.streamlit.app/)
