@@ -13,7 +13,7 @@
 * Data Querying
 * Coding languages: Python/Cython, R, SQL, Javascript
 * Markup and styling languages: HTML, CSS (basics), markdown, LaTeX (basics)
-* AI engineering: I built a domain-agnostic, hybrid language model that uses Semantic Embeddings for retrieval and uses a custom-built decoder transformer for full conversational coherence. It is ~25M parameters (with presets for 85M and 512M parameters) and is developed to be able to run on CPU, with GPU (CUDA) support if available.
+* AI engineering: I built [Grimoire AI](https://github.com/BasLinders/grimoire) — a domain-agnostic, hybrid language model that uses Semantic Embeddings for retrieval and uses a custom-built decoder transformer for full conversational coherence. It is ~25M parameters (with presets for 85M and 512M parameters) and is developed to be able to run on CPU, with GPU (CUDA) support if available.
 
 **Professional experience in Data Science**
 * Experimentation & Data Scientist @ Happy Horizon
