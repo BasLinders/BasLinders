@@ -20,9 +20,9 @@
 * Experimentation & Data Science @ Evoworks E-commerce marketing
 
 **Projects shipped @ Happy Horizon**
-* [Hexkit](https://hexkit.streamlit.app/) — partly fueled by [First Order Engine](https://github.com/BasLinders/first-order-engine), which I created for it
-* [Haedakit](https://haedakit.streamlit.app/)
-* [Causekit](https://causekit.streamlit.app/)
+* [Hexkit](https://hexkit.streamlit.app/) — An experimentation analysis toolkit, partly fueled by [First Order Engine](https://github.com/BasLinders/first-order-engine), which I created for it
+* [Haedakit](https://haedakit.streamlit.app/) — Advanced exploratory analysis toolkit for product managers and optimization strategists
+* [Causekit](https://causekit.streamlit.app/) — Causal inference methods toolkit for CRO teams
 
 **Professional experience in Marketing**
 * CRO Specialist @ Happy Horizon
