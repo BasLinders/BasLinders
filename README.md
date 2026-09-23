@@ -23,6 +23,7 @@
 * [Hexkit](https://hexkit.streamlit.app/) — An experimentation analysis toolkit, partly fueled by [First Order Engine](https://github.com/BasLinders/first-order-engine), which I created for it
 * [Haedakit](https://haedakit.streamlit.app/) — Advanced exploratory analysis toolkit for product managers and optimization strategists
 * [Causekit](https://causekit.streamlit.app/) — Causal inference methods toolkit for CRO teams
+* ProX — Process mining for web data (ecommerce only for now)
 
 **Professional experience in Marketing**
 * CRO Specialist @ Happy Horizon
